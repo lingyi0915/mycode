@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Main-Class: com.hjh.flink.java.cep.CEPTest
+Implementation-Title: flink-cep
+Implementation-Version: 1.5.6
+Archiver-Version: Plexus Archiver
+Built-By: tweise
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: flink-cep
+Implementation-Vendor-Id: org.apache.flink
+Created-By: Apache Maven 3.2.5
+Build-Jdk: 1.8.0_161
+Specification-Version: 1.5.6
+Implementation-Vendor: The Apache Software Foundation
+
