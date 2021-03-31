@@ -14,7 +14,7 @@
     <properties>
         <scala.binary.version>2.11</scala.binary.version>
         <flink.version>1.7.2</flink.version>
-        <guava.version>25.1-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
     </properties>
 
     <dependencies>
