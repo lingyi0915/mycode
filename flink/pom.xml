@@ -12,7 +12,7 @@
     <artifactId>flink</artifactId>
 
     <properties>
-        <flink.version>1.7.2</flink.version>
+        <flink.version>1.9.2</flink.version>
         <scala.binary.version>2.11</scala.binary.version>
         <scope.level.compile>compile</scope.level.compile>
         <scope.level.runtime>runtime</scope.level.runtime>
